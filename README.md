@@ -7,4 +7,6 @@ Check out my [portfolio](https://deepakmodi.tech).
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,graphql,prisma,mongodb,mysql,postgresql,firebase)](https://skillicons.dev)
 
+![Snake animation](https://raw.githubusercontent.com/decodewithdeepak/decodewithdeepak/output/github-contribution-grid-snake.svg)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=decodewithdeepak&color=7c3aed&style=flat-square&label=Profile+Views)
