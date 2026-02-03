@@ -7,6 +7,10 @@ Check out my [portfolio](https://deepakmodi.tech).
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,graphql,prisma,mongodb,mysql,postgresql,firebase)](https://skillicons.dev)
 
-![Snake animation](https://raw.githubusercontent.com/decodewithdeepak/decodewithdeepak/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/decodewithdeepak/decodewithdeepak/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/decodewithdeepak/decodewithdeepak/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/decodewithdeepak/decodewithdeepak/output/github-contribution-grid-snake.svg">
+</picture>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=decodewithdeepak&color=7c3aed&style=flat-square&label=Profile+Views)
