@@ -1,9 +1,7 @@
 **Hey there 👋** I am a Software Developer building AI-powered web applications.
 
-**Currently:** Fullstack Developer Intern at Tidyhire
-
+**Currently:** Fullstack Developer Intern at Tidyhire  
 **Previously:** Frontend Developer Intern at Cekura AI (YC F24)  
-
 **Built:** NotesNeo (5000+ students) • ResumeGPT (200+ users) • NeoCompiler  
 
 Check out my [portfolio](https://deepakmodi.dev).
